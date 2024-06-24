@@ -1,0 +1,21 @@
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# Static site generator output
+_site/
+public/
+
+# Cache directories
+.cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
