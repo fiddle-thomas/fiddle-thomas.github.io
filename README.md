@@ -29,7 +29,7 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 - **BA English Literature**: Mahatma Gandhi University
 
 ### Certifications (Future Plan)
-- Planning to pursue certifications in Data Analytics and Machine Learning to further enhance my skills and knowledge in the field.
+- **Professional Data Engineer**: Google Cloud Certification.
 
 ---
 
