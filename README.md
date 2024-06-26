@@ -1,6 +1,4 @@
-# fiddle-thomas.github.io
-Personal portfolio website
-# Fiddle Thomas Portfolio
+# Fiddle Thomas
 
 ## About Me
 I'm Fiddle Thomas, an aspiring Data Professional currently exploring various fields within data to find my niche. At present, I am focused on learning Python and SQL as I delve into the world of Data Engineering. This journey is my first step in understanding if this is the right path for me before potentially exploring Data Analytics and Data Science.
@@ -23,11 +21,11 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 - **Python Programming MOOC 2024**: A comprehensive Python programming course by University of Helsinki.
 - **DataTalks.Club's Data Engineering Zoomcamp**: A specialized program focused on data engineering skills and practices.
 
-### Educational Qualifications (Optional)
+### Educational Qualifications
 - **MBA Marketing**: Sikkim Manipal University
 - **BA English Literature**: Mahatma Gandhi University
 
-### Certifications (Future Plan)
+### Certifications I am preparing for
 - **Professional Data Engineer**: Google Cloud Certification.
 
 ---
@@ -60,18 +58,13 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-### About
-
-Explore my journey into data engineering, learn about my interests, and discover my evolving skills in the field.
-
----
-
 ### Contact Information
 
 - **Email**: [fiddle@fiddlethomas.com](mailto:fiddle@fiddlethomas.com)
 - **LinkedIn**: [Fiddle Thomas](https://linkedin.com/in/fiddlethomas/)
 - **GitHub**: [github.com/fiddle-thomas](https://github.com/fiddle-thomas)
 - **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddle_thomas/)
+
 ---
 
 ### Footer
