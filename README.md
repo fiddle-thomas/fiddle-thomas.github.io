@@ -1,4 +1,4 @@
-# Fiddle Thomas
+<!-- # Fiddle Thomas -->
 
 ## About Me
 I'm Fiddle Thomas, an aspiring Data Professional currently exploring various fields within data to find my niche. At present, I am focused on learning Python and SQL as I delve into the world of Data Engineering. This journey is my first step in understanding if this is the right path for me before potentially exploring Data Analytics and Data Science.
