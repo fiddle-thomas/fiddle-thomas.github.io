@@ -20,7 +20,6 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 
 ### Current Courses
 - **HarvardX CS50P**: CS50's Introduction to Programming with Python by Harvard University.
-- **MITx 6.00.1x**: Introduction to Computer Science and Programming Using Python by MIT.
 - **Python Programming MOOC 2024**: A comprehensive Python programming course by University of Helsinki.
 - **DataTalks.Club's Data Engineering Zoomcamp**: A specialized program focused on data engineering skills and practices.
 
