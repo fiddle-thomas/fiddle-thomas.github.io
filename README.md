@@ -14,6 +14,12 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 
 ---
 
+### Projects
+
+- Currently, no projects are listed. Future updates will showcase my work with links to GitHub repositories.
+
+---
+
 ## Education and Courses
 
 ### Current Courses
@@ -27,28 +33,6 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 
 ### Certifications I am preparing for
 - **Professional Data Engineer**: Google Cloud Certification.
-
----
-
-## Technologies Used
-
-This portfolio website is built using GitHub Pages and does not require any coding or local setup. The technologies involved include:
-
-- **GitHub Pages**: Hosting platform for static websites.
-- **Markdown**: Used for writing README and other text files.
-- **HTML/CSS**: Basic styling and structure for the GitHub Pages site.
-
----
-
-### Installation Instructions (Not Applicable)
-
-This project does not require any installation steps since it is hosted on GitHub Pages. Simply visit the website link to explore.
-
-### Usage
-
-- **Projects**: Currently, no projects are listed. Future updates will showcase my work with links to GitHub repositories.
-- **Blog**: Visit the blog section to read articles on data engineering topics.
-- **Contact**: Use the provided email to reach out for collaboration or inquiries.
 
 ---
 
@@ -66,7 +50,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 - **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddle_thomas/)
 
 ---
-
-### Footer
 
 Thank you for visiting my portfolio. Stay tuned for updates and new projects!
