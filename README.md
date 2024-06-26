@@ -31,7 +31,7 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 - **MBA Marketing**: Sikkim Manipal University
 - **BA English Literature**: Mahatma Gandhi University
 
-### Certifications I am preparing for
+### Certifications I Am Preparing For
 - **Professional Data Engineer**: Google Cloud Certification.
 
 ---
