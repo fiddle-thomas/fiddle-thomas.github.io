@@ -19,3 +19,8 @@ public/
 
 # Temporary files
 *.tmp
+
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache
