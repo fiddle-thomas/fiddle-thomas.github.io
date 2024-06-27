@@ -31,7 +31,7 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 
 ## Contact Information
 
-- **Email**: [fiddle@fiddlethomas.com](mailto:fiddle@fiddlethomas.com)
+- **Email**: [fiddle@fiddlethomas.com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#105;&#100;&#100;&#108;&#101;&#64;&#102;&#105;&#100;&#100;&#108;&#101;&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#99;&#111;&#109;)
 - **LinkedIn**: [Fiddle Thomas](https://linkedin.com/in/fiddlethomas/)
 - **GitHub**: [github.com/fiddle-thomas](https://github.com/fiddle-thomas)
 - **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddle_thomas/)
