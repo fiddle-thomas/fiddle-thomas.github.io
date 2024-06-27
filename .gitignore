@@ -20,7 +20,14 @@ public/
 # Temporary files
 *.tmp
 
+# Ignore cached Sass stylesheets if you use Sass.
 .sass-cache
+
+# Ignore the Gemfile lock file, which is generated to manage gem dependencies.
 Gemfile.lock
+
+# Ignore any Ruby gem files.
 *.gem
+
+# Ignore Jekyll cache directory.
 .jekyll-cache
