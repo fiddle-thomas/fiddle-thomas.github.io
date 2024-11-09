@@ -1,33 +1,29 @@
-# Aspiring Data Professional
-**Technical Skills: Python, SQL**
+# Aspiring Project Manager
+**Core Skills: Project Management, Agile Methodologies, Risk Management, Stakeholder Communication, Leadership, Team Coordination**
 
 ## About Me
-I'm Fiddle Thomas, an aspiring Data Professional currently exploring various fields within data to find my niche. At present, I am focused on learning Python and SQL as I delve into the world of Data Engineering. This journey is my first step in understanding if this is the right path for me before potentially exploring Data Analytics and Data Science.
+I’m Fiddle Thomas, an aspiring Project Manager with a passion for creating effective, organized solutions that drive success. Currently, I am completing the Google Project Management Professional Certificate, which has equipped me with practical knowledge in Agile project management, risk management, and stakeholder communication. My background spans a diverse range of experiences, from leading entrepreneurial ventures and short film productions to roles in operations management and customer service.
 
-My approach is driven by curiosity and a desire to discover where my true interests lie within the data domain. Although I don't have a formal background in computer science, I am committed to continuous learning and growth.
-
-Feel free to explore my portfolio to see the projects I've been working on and the skills I'm developing.
+Throughout my career, I have developed a strong foundation in leadership, problem-solving, and strategic planning. These skills allow me to effectively manage teams and projects, ensuring that all stakeholders stay aligned on goals, timelines, and outcomes. I am excited to transition into an entry-level project management role and apply my skills to contribute meaningfully to project success.
 
 ## Blog
-- [Medium](https://medium.com/@fiddlethomas): Read more about my journey here.
+- [Medium](https://medium.com/@fiddlethomas): Read more about my journey and insights on project management here.
 
 ## Projects
 
-- Currently, no projects are listed. Future updates will showcase my work with links to GitHub repositories.
-
+- Currently, no projects are listed. Future updates will include details of completed and ongoing project management work, with links to project artifacts and case studies.
+  
 ## Education and Courses
 
 ### Current Courses
-- **HarvardX CS50P**: CS50's Introduction to Programming with Python by Harvard University.
-- **Python Programming MOOC 2024**: A comprehensive Python programming course by University of Helsinki.
-- **DataTalks.Club's Data Engineering Zoomcamp**: Learn about building data systems and practice the entire data engineering pipeline.
+- **Google Project Management Professional Certificate (Google & Coursera)**: Mastering Agile methodologies, risk management, and strategic project communication.
 
 ### Educational Qualifications
 - **MBA Marketing**: Sikkim Manipal University, July 2015
 - **BA English Literature**: Mahatma Gandhi University, March 2008
 
 ### Certifications I Am Preparing For
-- **Professional Data Engineer**: Google Cloud Certification
+- **CAPM**
 
 ## Contact Information
 
@@ -36,4 +32,4 @@ Feel free to explore my portfolio to see the projects I've been working on and t
 - **GitHub**: [github.com/fiddle-thomas](https://github.com/fiddle-thomas)
 - **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddle_thomas/)
 
-Thank you for visiting my portfolio. Stay tuned for updates and new projects!
+Thank you for visiting my portfolio. Stay tuned for updates and new project showcases!
