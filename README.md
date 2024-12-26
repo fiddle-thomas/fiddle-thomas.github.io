@@ -22,14 +22,11 @@ Throughout my career, I have developed a strong foundation in leadership, proble
 - **MBA Marketing**: Sikkim Manipal University, July 2015
 - **BA English Literature**: Mahatma Gandhi University, March 2008
 
-### Certifications I Am Preparing For
-- **CAPM**
-
 ## Contact Information
 
-- **Email**: [fiddle@fiddlethomas.com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#105;&#100;&#100;&#108;&#101;&#64;&#102;&#105;&#100;&#100;&#108;&#101;&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#99;&#111;&#109;)
+- **Email**: [fiddlethomas@gmail.com](&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#105;&#100;&#100;&#108;&#101;&#64;&#102;&#105;&#100;&#100;&#108;&#101;&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#99;&#111;&#109;)
 - **LinkedIn**: [Fiddle Thomas](https://linkedin.com/in/fiddlethomas/)
 - **GitHub**: [github.com/fiddle-thomas](https://github.com/fiddle-thomas)
-- **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddle_thomas/)
+- **Instagram**: [instagram.com/fiddle_thomas](https://www.instagram.com/fiddlethomas/)
 
 Thank you for visiting my portfolio. Stay tuned for updates and new project showcases!
